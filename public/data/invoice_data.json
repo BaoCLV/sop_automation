@@ -1,0 +1,749 @@
+[{
+    "invoice_details": {
+        "serial": "1C23TAA",
+        "invoice_number": "00000070",
+        "invoice_date": "31/01/2023",
+        "seller": {
+            "name": "CÔNG TY TNHH PHÁT TRIỂN NGUYỄN THẮNG",
+            "tax_code": "0317076671",
+            "address": "số 15, đường 31C, Phường An Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        "buyer": {
+            "name": "CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ BDOOP",
+            "tax_code": "0313508659",
+            "address": "Số 18 Đường Lê Tuấn Mậu, Phường 13, Quận 6, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        "payment_method": "CK",
+        "isValid":true,
+        "isDeleted":false
+    },
+    "items": [
+        {
+            "description": "Dịch vụ phát triển hạng mục chia ca và đánh giá tay nghề trên phần mềm Kế Hoạch Và Phân Công theo hợp đồng số : 03-2022 BDOOP/NGUYENTHANG",
+            "unit": "gói ",
+            "quantity": "1",
+            "unit_price": "414.000.000",
+            "tax_rate": "",
+            "amount_untaxed": "414.000.000",
+            "vat_amount": "",
+            "amount": "414.000.000"
+        }
+    ],
+    "total": {
+        "amount": "414.000.000",
+        "amount_in_words": "Bốn trăm mười bốn triệu đồng",
+        "before_tax": "414.000.000",
+        "vat": "",
+        "page": "1/1"
+    }
+},
+{
+    "invoice_details": {
+        "serial": "1C23TYY",
+        "invoice_number": "00002836",
+        "invoice_date": "17/4/2023",
+        "seller": {
+            "name": "",
+            "tax_code": "",
+            "address": ""
+        },
+        "buyer": {
+            "name": "",
+            "tax_code": "",
+            "address": ""
+        },
+        "payment_method": "",
+        "isValid":true,
+        "isDeleted":false
+    },
+    "items": [
+        {
+            "description": "",
+            "unit": "",
+            "quantity": "",
+            "unit_price": "",
+            "tax_rate": "",
+            "amount_untaxed": "",
+            "vat_amount": "",
+            "amount": ""
+        }
+    ],
+    "total": {
+        "amount": "",
+        "amount_in_words": "",
+        "before_tax": "",
+        "vat": ""
+    }
+},
+{
+    "invoice_details": {
+        "serial": "1K23THA",
+        "invoice_number": "00095690",
+        "invoice_date": "13/02/2023",
+        "seller": {
+            "name": "CÔNG TY CỔ PHẦN BE GROUP",
+            "tax_code": "0108269207",
+            "address": "Tầng 16, Tòa nhà Sai Gon Tower, 29 Lê Duẩn, Phường Bến Nghé, Quận 1, TP Hồ Chí Minh, Việt Nam"
+        },
+        "buyer": {
+            "name": "Công Ty Cổ Phần Thương Mại Và Dịch Vụ BDOOP",
+            "tax_code": "0313508659",
+            "address": "Số 18 Lê Tuấn Mậu, Phường 13, Quận 6, TP.HCM"
+        },
+        "payment_method": "TM/CK",
+        "isValid":true,
+        "isDeleted":false
+    },
+    "items": [
+        {
+            "description": "Cước phí vận tải chuyến 586727514",
+            "unit": "Chuyến",
+            "quantity": "1",
+            "unit_price": "14.682",
+            "tax_rate": "10%",
+            "amount_untaxed": "14.682",
+            "vat_amount": "1.468",
+            "amount": "16.150"
+        },
+        {
+            "description": "Phí sử dụng ứng dụng Be",
+            "unit": "Chuyến",
+            "quantity": "1",
+            "unit_price": "850",
+            "tax_rate": "",
+            "amount_untaxed": "850",
+            "vat_amount": "",
+            "amount": "850"
+        },
+        {
+            "description": "Phí xử lý đơn hàng",
+            "unit": "",
+            "quantity": "",
+            "unit_price": "1.818",
+            "tax_rate": "10%",
+            "amount_untaxed": "1.818",
+            "vat_amount": "182",
+            "amount": "2.000"
+        }
+      
+    ],
+    "total": {
+        "amount": "19.000",
+        "amount_in_words": "Mườichín ngàn đồng chẵn",
+        "before_tax": "",
+        "vat": ""
+    }
+},
+{
+    "invoice_details": {
+        "serial": "1K23THA",
+        "invoice_number": "00100667",
+        "invoice_date": "16/02/2023",
+        "seller": {
+            "name": "CÔNG TY CỔ PHẦN BE GROUP",
+            "tax_code": "0108269207",
+            "address": "Tầng 16, Tòa nhà Sai Gon Tower, 29 Lê Duẩn, Phường Bến Nghé, Quận 1, TP Hồ Chí Minh, Việt Nam"
+        },
+        "buyer": {
+            "name": "Công Ty Cổ Phần Thương Mại Và Dịch Vụ BDOOP",
+            "tax_code": "0313508659",
+            "address": "Số 18 Lê Tuấn Mậu, Phường 13, Quận 6, TP.HCM"
+        },
+        "payment_method": "TM/CK",
+        "isValid":true,
+        "isDeleted":false
+    },
+    "items": [
+        {
+            "description": "Cước phí vận tải chuyến 589519721",
+            "unit": "Chuyến",
+            "quantity": "1",
+            "unit_price": "15.500",
+            "tax_rate": "10%",
+            "amount_untaxed": "15.500",
+            "vat_amount": "1.550",
+            "amount": "17.050"
+        },
+        {
+            "description": "Phí sử dụng ứng dụng Be",
+            "unit": "Chuyến",
+            "quantity": "1",
+            "unit_price": "950",
+            "tax_rate": "",
+            "amount_untaxed": "950",
+            "vat_amount": "",
+            "amount": "950"
+        }
+    ],
+    "total": {
+        "amount": "18.000",
+        "amount_in_words": "Mười tám ngàn đồng chẵn",
+        "before_tax": "",
+        "vat": ""
+    }
+},
+{
+    "invoice_details": {
+        "serial": "1C23TGW",
+        "invoice_number": "117",
+        "invoice_date": "05/04/2023",
+        "seller": {
+            "name": "CÔNG TY TNHH THƯƠNG MẠI VÀ PHÁT TRIỂN CÔNG NGHỆ GREEN WOOD",
+            "tax_code": "0313400662",
+            "address": "36/4 Đỗ Nhuận, Phường Sơn Kỳ, Quận Tân Phú, Thành phố Hồ Chí Minh"
+        },
+        "buyer": {
+            "name": "CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ BDOOP",
+            "tax_code": "0313508659",
+            "address": "Số 18 Đường Lê Tuấn Mậu, Phường 13, Quận 6, Thành phố Hồ Chí Minh"
+        },
+        "payment_method": "TM/CK",
+        "isValid":true,
+        "isDeleted":false
+    },
+    "items": [
+        {
+            "description": "Bộ nhớ Ram HP 16GB PC4-3200",
+            "unit": "Cái",
+            "quantity": "3",
+            "unit_price": "3.400.000",
+            "tax_rate": "10%",
+            "amount_untaxed": "10.200.000",
+            "vat_amount": "1.020.000",
+            "amount": "10.200.000"
+        }
+    ],
+    "total": {
+        "amount": "11.220.000",
+        "amount_in_words": "Mười một triệu hai trăm hai mươi nghìn đồng",
+        "before_tax": "10.200.000",
+        "vat": "10%"
+    }
+},
+{
+    "invoice_details": {
+        "serial": "1K23THT",
+        "invoice_number": "00965874",
+        "invoice_date": "31/03/2023",
+        "seller": {
+            "name": "CHI NHÁNH CÔNG TY CỔ PHẦN VIỄN THÔNG FPT",
+            "tax_code": "0101778163-001",
+            "address": "Lô 37-39A Đường số 19, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, TP Hồ Chí Minh"
+        },
+        "buyer": {
+            "name": "Cong Ty Co Phan Thuong Mai Va Dich Vu BDOOP",
+            "tax_code": "0313508659",
+            "address": "So 18 Duong Le Tuan Mau, Phuong 13, Quan 6, Thanh pho Ho Chi Minh, Viet Nam"
+        },
+        "payment_method": "",
+        "isValid":true,
+        "isDeleted":false
+    },
+    "items": [
+        {
+            "description": "Cước Internet (Từ ngày 01/03/2023 đến ngày 31/03/2023)",
+            "unit": "Gói",
+            "quantity": "1",
+            "unit_price": "335.000",
+            "tax_rate": "10",
+            "amount_untaxed": "335.000",
+            "vat_amount": "33.500",
+            "amount": "368.500"
+        },
+        {
+            "description": "Thuê thiết bị đầu cuối (Từ ngày 01/03/2023 đến ngày 31/03/2023)",
+            "unit": "Gói",
+            "quantity": "1",
+            "unit_price": "50.000",
+            "tax_rate": "10",
+            "amount_untaxed": "50.000",
+            "vat_amount": "5.000",
+            "amount": "55.000"
+        }
+    ],
+    "total": {
+        "amount": "423.50",
+        "amount_in_words": "Bốn trăm hai mươi ba nghìn năm trăm đồng chẵn.",
+        "before_tax": "385.000",
+        "vat": "38.500"
+    }
+},
+{
+    "invoice_details": {
+        "serial": "1K23TQA",
+        "invoice_number": "00358613",
+        "invoice_date": "03/04/2023",
+        "seller": {
+            "name": "CHI NHÁNH CÔNG TY CỔ PHẦN VIỄN THÔNG FPT",
+            "tax_code": "0101778163-001",
+            "address": "Lô 37-39A Đường số 19, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, TP Hồ Chí Minh"
+        },
+        "buyer": {
+            "name": "Cong Ty Co Phan Thuong Mai Va Dich Vu BDOOP",
+            "tax_code": "0313508659",
+            "address": "So 18 Duong Le Tuan Mau, Phuong 13, Quan 6, Thanh pho Ho Chi Minh, Viet Nam"
+        },
+        "payment_method": "",
+        "isValid":true,
+        "isDeleted":false
+    },
+    "items": [
+        {
+            "description": "Cước Internet (Từ ngày 01/04/2023 đến ngày 31/10/2023)",
+            "unit": "Gói",
+            "quantity": "1",
+            "unit_price": "1.920.000",
+            "tax_rate": "10",
+            "amount_untaxed": "1.920.000",
+            "vat_amount": "192.000",
+            "amount": "2.112.000"
+        },
+        {
+            "description": "Thuê thiết bị đầu cuối (Từ ngày 01/04/2023 đến ngày 31/10/2023)",
+            "unit": "Gói",
+            "quantity": "1",
+            "unit_price": "300.000",
+            "tax_rate": "10",
+            "amount_untaxed": "300.000",
+            "vat_amount": "30.000",
+            "amount": "330.000"
+        }
+    ],
+    "total": {
+        "amount": "2.442.000",
+        "amount_in_words": "Hai triệu bốn trăm bốn mươi hai nghìn đồng",
+        "before_tax": "2.220.000",
+        "vat": "222.000"
+    }
+},
+{
+    "invoice_details": {
+        "serial": "1K23THT",
+        "invoice_number": "00002257",
+        "invoice_date": "31/01/2023",
+        "seller": {
+            "name": "CÔNG TY TNHH MỘT THÀNH VIÊN VIỄN THÔNG QUỐC TẾ FPT",
+            "tax_code": "0305793402",
+            "address": "Lô L.29B-31B-33B đường Tân Thuận, KCX Tân Thuận, Phường Tân Thuận Đông, TP HCM, Việt Nam"
+        },
+        "buyer": {
+            "name": "CONG TY CO PHAN THUONG MAI VA DICH VU BDOOP",
+            "tax_code": "0313508659",
+            "address": "So 18 Duong Le Tuan Mau, Phuong 13, Quan 6, Thanh pho Ho Chi Minh, Viet Nam"
+        },
+        "payment_method": "Tiền mặt/Chuyển khoản",
+        "isValid":true,
+        "isDeleted":false
+    },
+    "items": [
+        {
+            "description": "Cước điện thoại",
+            "unit": "Gói",
+            "quantity": "1",
+            "unit_price": "20.000",
+            "tax_rate": "10",
+            "amount_untaxed": "20.000",
+            "vat_amount": "2.000",
+            "amount": "22.000"
+        },
+        {
+            "description": "Cước điện thoại tháng trước",
+            "unit": "Gói",
+            "quantity": "1",
+            "unit_price": "21.132",
+            "tax_rate": "10",
+            "amount_untaxed": "21.132",
+            "vat_amount": "2.113",
+            "amount": "23.245"
+        }
+    ],
+    "total": {
+        "amount": "45.245",
+        "amount_in_words": "Bốn mươi lăm nghìn hai trăm bốn mươi lăm đồng chẵn.",
+        "before_tax": "41.132",
+        "vat": "4.113"
+    }
+},
+{
+    "invoice_details": {
+        "serial": "1C23TSG",
+        "invoice_number": "00000069",
+        "invoice_date": "09/04/2023",
+        "seller": {
+            "name": "",
+            "tax_code": "",
+            "address": ""
+        },
+        "buyer": {
+            "name": "",
+            "tax_code": "",
+            "address": ""
+        },
+        "payment_method": "",
+        "isValid":true,
+        "isDeleted":false
+    },
+    "items": [
+        {
+            "description": "",
+            "unit": "",
+            "quantity": "",
+            "unit_price": "",
+            "tax_rate": "",
+            "amount_untaxed": "",
+            "vat_amount": "",
+            "amount": ""
+        }
+    ],
+    "total": {
+        "amount": "",
+        "amount_in_words": "",
+        "before_tax": "",
+        "vat": ""
+    }
+},
+{
+    "invoice_details": {
+        "serial": "2C23TTT",
+        "invoice_number": "50",
+        "invoice_date": "12/02/2023",
+        "seller": {
+            "name": "HOA TƯƠI TY TY",
+            "tax_code": "1701235178",
+            "address": "452 Nguyễn Trung Trực, Phường Vĩnh Lạc, Thành phố Rạch Giá, Tỉnh Kiên Giang"
+        },
+        "buyer": {
+            "name": "Công Ty Cổ Phần Thương Mại Và Dịch Vụ BDOOP",
+            "tax_code": "0313508659",
+            "address": "Số 18, đường Lê Tuấn Mậu, phường 13, quận 6, thành phố Hồ Chí Minh"
+        },
+        "payment_method": "TM",
+        "isValid":true,
+        "isDeleted":false
+    },
+    "items": [
+        {
+            "description": "Hoa Tươi ( vòng hoa )",
+            "unit": "cái",
+            "quantity": "1",
+            "unit_price": "1.700.000",
+            "tax_rate": "",
+            "amount_untaxed": "1.700.000",
+            "vat_amount": "",
+            "amount": "1.700.000"
+        }
+    ],
+    "total": {
+        "amount": "1.700.000",
+        "amount_in_words": "Một triệu bảy trăm nghìn đồng",
+        "before_tax": "1.700.000",
+        "vat": ""
+    }
+},
+{
+    "invoice_details": {
+        "serial": "1C23TLH",
+        "invoice_number": "00006857",
+        "invoice_date": "05/4/2023",
+        "seller": {
+            "name": "CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT LÊ HOÀNG",
+            "tax_code": "0306263327",
+            "address": "18, Đường 239, Khu III Bùi Minh Trực, Phường 5, Quận 8, Thành Phố Hồ Chí Minh, Việt Nam"
+        },
+        "buyer": {
+            "name": "CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ BDOOP",
+            "tax_code": "0313508659",
+            "address": "Số 18 Đường Lê Tuấn Mậu, Phường 13, Quận 6, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        "payment_method": "TM/CK",
+        "isValid":false,
+        "isDeleted":false
+    },
+    "items": [
+        {
+            "description": "Camera quan sát DS-2DE2C400SCG-E F0",
+            "unit": "Cái",
+            "quantity": "17",
+            "unit_price": "1.657.100,00",
+            "tax_rate": "",
+            "amount_untaxed": "28.170.700",
+            "vat_amount": "",
+            "amount": "28.170.700"
+        },
+        {
+            "description": "Đầu ghi hình DS-7632NI-K2",
+            "unit": "Cái",
+            "quantity": "2",
+            "unit_price": "3.876.300,00",
+            "tax_rate": "",
+            "amount_untaxed": "7.752.600",
+            "vat_amount": "",
+            "amount": "7.752.600"
+        },
+        {
+            "description": "Ổ đĩa cứng của máy vi tính hiệu Seagate 10000GB(SkyHawk AI) ST10000VE001",
+            "unit": "Cái",
+            "quantity": "4",
+            "unit_price": "6.500.000,00",
+            "tax_rate": "",
+            "amount_untaxed": "26.000.000",
+            "vat_amount": "",
+            "amount": "26.000.000"
+        }
+    ],
+    "total": {
+        "amount": "68.115.630",
+        "amount_in_words": "Sáu mươi tám triệu một trăm mười lăm nghìn sáu trăm ba mươi đồng chẵn.",
+        "before_tax": "61.923.300",
+        "vat": "6.192.330"
+    }
+},
+{
+    "invoice_details": {
+        "serial": "1K23DAB",
+        "invoice_number": "375396",
+        "invoice_date": "06/02/2023",
+        "seller": {
+            "name": "CÔNG TY DỊCH VỤ MOBIFONE KHU VỰC 2 - CHI NHÁNH TỔNG CÔNG TY VIỄN THÔNG MOBIFONE",
+            "tax_code": "0100686209-002",
+            "address": "MM18 Trường Sơn, Phường 14, Quận 10, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        "buyer": {
+            "name": "Công Ty Cổ Phần Thương Mại Và Dịch Vụ BDOOP",
+            "tax_code": "18 Lê Tuấn Mậu Phường 13 Quận 06 Thành Phố Hồ Chí Minh Việt Nam",
+            "address": "0313508659"
+        },
+        "payment_method": "",
+        "isValid":true,
+        "isDeleted":false
+    },
+    "items": [
+        {
+            "description": "Cước dịch vụ viễn thông trả sau (Dịch vụ chịu thuế)",
+            "unit": "",
+            "quantity": "",
+            "unit_price": "",
+            "tax_rate": "10%",
+            "amount_untaxed": "329.187",
+            "vat_amount": "32.919",
+            "amount": "362.106"
+        }
+    ],
+    "total": {
+        "amount": "362.106",
+        "amount_in_words": "Ba trăm sáu mươi hai nghìn một trăm linh sáu đồng",
+        "before_tax": "329.187",
+        "vat": "32.919"
+    }
+},
+{
+    "invoice_details": {
+        "serial": "1K23DAB",
+        "invoice_number": "30317",
+        "invoice_date": "06/02/2023",
+        "seller": {
+            "name": "CÔNG TY DỊCH VỤ MOBIFONE KHU VỰC 2 - CHI NHÁNH TỔNG CÔNG TY VIỄN THÔNG MOBIFONE",
+            "tax_code": "0100686209-002",
+            "address": "MM18 Trường Sơn, Phường 14, Quận 10, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        "buyer": {
+            "name": "Tôn Thất Duyến - Công Ty Cổ Phần Thương Mại Và Dịch Vụ BDOOP",
+            "tax_code": "0313508659",
+            "address": "18 Lê Tuấn Mậu Phường 13 Quận 6 Thành Phố Hồ Chí Minh"
+        },
+        "payment_method": "",
+        "isValid":false,
+        "isDeleted":false
+    },
+    "items": [
+        {
+            "description": "Cước dịch vụ viễn thông trả sau (Dịch vụ chịu thuế)",
+            "unit": "",
+            "quantity": "",
+            "unit_price": "",
+            "tax_rate": "10%",
+            "amount_untaxed": "131.444",
+            "vat_amount": "13.144",
+            "amount": "144.588"
+        },
+        {
+            "description": "Cước dịch vụ viễn thông trả sau (Dịch vụ không chịu thuế)",
+            "unit": "",
+            "quantity": "",
+            "unit_price": "",
+            "tax_rate": "",
+            "amount_untaxed": "281",
+            "vat_amount": "0",
+            "amount": "281"
+        }
+    ],
+    "total": {
+        "amount": "144.869",
+        "amount_in_words": "Một trăm bốn mươi bốn nghìn tám trăm sáu mươi chín đồng",
+        "before_tax": "131.725",
+        "vat": "13.144"
+    }
+},
+{
+    "invoice_details": {
+        "serial": "1C23TTA",
+        "invoice_number": "00001499",
+        "invoice_date": "20/03/2023",
+        "seller": {
+            "name": "CÔNG TY TNHH TƯ VẤN ĐẦU TƯ THƯƠNG MẠI DỊCH VỤ THIÊN AN",
+            "tax_code": "0312760479",
+            "address": "183C/3C Tôn Thất Thuyết, Phường 4, Quận 4, TP Hồ Chí Minh, Việt Nam"
+        },
+        "buyer": {
+            "name": "CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ BDOOP",
+            "tax_code": "0313508659",
+            "address": "Số 18 Đường Lê Tuấn Mậu, Phường 13, Quận 6, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        "payment_method": "Tiền mặt/Chuyển khoản",
+        "isValid":true,
+        "isDeleted":true
+    },
+    "items": [
+        {
+            "description": "Nước Vihawa 20L",
+            "unit": "Bình",
+            "quantity": "4",
+            "unit_price": "58.181,82",
+            "tax_rate": "",
+            "amount_untaxed": "232.727",
+            "vat_amount": "",
+            "amount": "232.727"
+        }
+    ],
+    "total": {
+        "amount": "256.000",
+        "amount_in_words": "Hai trăm năm mươi sáu nghìn đồng chẵn./.",
+        "before_tax": "232.727",
+        "vat": "23.273"
+    }
+},
+{
+    "invoice_details": {
+        "serial": "2C23TYY",
+        "invoice_number": "269",
+        "invoice_date": "22/03/2023",
+        "seller": {
+            "name": "ĐỒ CHƠI CÔNG NGHỆ",
+            "tax_code": "8353141539",
+            "address": "21 Quân Sự - Phường 11 - Quận 11 - TP Hồ Chí Minh"
+        },
+        "buyer": {
+            "name": "CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ BDOOP",
+            "tax_code": "0313508659",
+            "address": "Số 18 Đường Lê Tuấn Mậu, Phường 13, Quận 6, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        "payment_method": "Tiền mặt/Chuyển khoản",
+        "isValid":true,
+        "isDeleted":false
+    },
+    "items": [
+        {
+            "description": "Bộ nhớ trong vi tính DDR4 4GB hiệu Samsung bus 2400",
+            "unit": "cái",
+            "quantity": "1",
+            "unit_price": "330.000",
+            "tax_rate": "",
+            "amount_untaxed": "",
+            "vat_amount": "",
+            "amount": "330.000"
+        }
+    ],
+    "total": {
+        "amount": "330.000",
+        "amount_in_words": "Ba trăm ba mươi nghìn đồng.",
+        "before_tax": "",
+        "vat": ""
+    }
+},
+{
+    "invoice_details": {
+        "serial": "2C23TYY",
+        "invoice_number": "268",
+        "invoice_date": "22/03/2023",
+        "seller": {
+            "name": "ĐỒ CHƠI CÔNG NGHỆ",
+            "tax_code": "8353141539",
+            "address": "21 Quân Sự - Phường 11 - Quận 11 - TP Hồ Chí Minh"
+        },
+        "buyer": {
+            "name": "CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ BDOOP",
+            "tax_code": "0313508659",
+            "address": "Số 18 Đường Lê Tuấn Mậu, Phường 13, Quận 6, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        "payment_method": "Tiền mặt/Chuyển khoản",
+        "isValid":true,
+        "isDeleted":false
+    },
+    "items": [
+        {
+            "description": "Bộ nhớ trong vi tính DDR4 4GB hiệu Samsung bus 2400",
+            "unit": "cái",
+            "quantity": "1",
+            "unit_price": "330.000",
+            "tax_rate": "",
+            "amount_untaxed": "",
+            "vat_amount": "",
+            "amount": "330.000"
+        }
+    ],
+    "total": {
+        "amount": "330.000",
+        "amount_in_words": "Ba trăm ba mươi nghìn đồng.",
+        "before_tax": "",
+        "vat": ""
+    }
+},
+{
+    "invoice_details": {
+        "serial": "1K23THT",
+        "invoice_number": "00516616",
+        "invoice_date": "28/02/2023",
+        "seller": {
+            "name": "CHI NHÁNH CÔNG TY CỔ PHẦN VIỄN THÔNG FPT",
+            "tax_code": "0101778163-001",
+            "address": "Lô 37-39A Đường số 19, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, TP Hồ Chí Minh"
+        },
+        "buyer": {
+            "name": "Cong Ty Co Phan Thuong Mai Va Dich Vu BDOOP",
+            "tax_code": "0313508659",
+            "address": "So 18 Duong Le Tuan Mau, Phuong 13, Quan 6, Thanh pho Ho Chi Minh, Viet Nam"
+        },
+        "payment_method": "",
+        "isValid":true,
+        "isDeleted":true
+    },
+    "items": [
+        {
+            "description": "Cước Internet (Từ ngày 01/02/2023 đến ngày 28/02/2023)",
+            "unit": "Gói",
+            "quantity": "1",
+            "unit_price": "335.000",
+            "tax_rate": "10",
+            "amount_untaxed": "335.000",
+            "vat_amount": "33.500",
+            "amount": "368.500"
+        },
+        {
+            "description": "Thuê thiết bị đầu cuối (Từ ngày 01/02/2023 đến ngày 28/02/2023)",
+            "unit": "Gói",
+            "quantity": "1",
+            "unit_price": "50.000",
+            "tax_rate": "10",
+            "amount_untaxed": "50.000",
+            "vat_amount": "5.000",
+            "amount": "55.000"
+        }
+    ],
+    "total": {
+        "amount": "423.500",
+        "amount_in_words": "Bốn trăm hai mươi ba nghìn năm trăm đồng chẵn.",
+        "before_tax": "385.000",
+        "vat": "38.500"
+    }
+}
+]
